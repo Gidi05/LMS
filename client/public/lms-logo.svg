@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Book base -->
+    <path d="M96 96V416C96 433.7 110.3 448 128 448H384C401.7 448 416 433.7 416 416V96C416 78.33 401.7 64 384 64H128C110.3 64 96 78.33 96 96Z" fill="#1976d2"/>
+    
+    <!-- Pages -->
+    <path d="M128 96H384V416H128V96Z" fill="white"/>
+    
+    <!-- Lines representing text -->
+    <rect x="160" y="128" width="192" height="16" rx="8" fill="#1976d2" opacity="0.6"/>
+    <rect x="160" y="160" width="160" height="16" rx="8" fill="#1976d2" opacity="0.6"/>
+    <rect x="160" y="192" width="176" height="16" rx="8" fill="#1976d2" opacity="0.6"/>
+    
+    <!-- Graduation cap -->
+    <path d="M256 192L384 256L256 320L128 256L256 192Z" fill="#dc004e"/>
+    <path d="M256 288V352M224 272V336M288 272V336" stroke="#dc004e" stroke-width="16" stroke-linecap="round"/>
+</svg>

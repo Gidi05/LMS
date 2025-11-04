@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.logo {
+  height: 64px;
+  margin: 16px;
+}
+
+.auth-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.auth-paper {
+  padding: 32px;
+  width: 100%;
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.auth-title {
+  margin-bottom: 24px;
+}
+
+.form-field {
+  margin: 8px 0;
+}
+
+.submit-button {
+  margin: 24px 0 16px;
+}
